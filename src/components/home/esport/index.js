@@ -1,5 +1,6 @@
 
 function Esports() {
+  
   return (
     <div className="sm:px-[80px]">
       <div className="text-white text-[48px]">
